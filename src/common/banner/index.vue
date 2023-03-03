@@ -1,6 +1,6 @@
 <template>
   <div>
-    banner组件
+    banner组件1231
   </div>
 </template>
 
